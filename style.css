@@ -1,14 +1,11 @@
 /* ==================== BASE STYLES ==================== */
-@font-face {
-  font-family: "Roboto";
-  src: url("/fonts/Roboto-Regular.ttf");
-  font-weight: 400;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
   margin: 0 auto;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
+  font-weight: 400;
 }
 
 /* ==================== LAYOUT STYLES ==================== */
