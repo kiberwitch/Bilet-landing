@@ -5,8 +5,20 @@ body {
   margin: 0 auto;
   box-sizing: border-box;
   font-family: "Roboto";
-  font-weight: 400;
 }
+
+a {
+  color: inherit;        /* Наследует цвет от родителя */
+  text-decoration: none; /* Убирает подчеркивание */
+  background: none;      /* Убирает фон */
+  border: none;          /* Убирает рамки */
+  padding: 0;            /* Убирает внутренние отступы */
+  margin: 0;             /* Убирает внешние отступы */
+  cursor: pointer;       /* Курсор в виде руки */
+}
+
+
+
 
 /* ==================== LAYOUT STYLES ==================== */
 .main-container {
