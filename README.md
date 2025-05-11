@@ -26,5 +26,5 @@ HTML5, CSS3 (Flexbox/Grid), JavaScript (для интерактивности).
 
 Интеграция с платежными системами.
 
-Ссылка на демо: https://kiberwitch.github.io/Bilet-landing/
+Ссылка на демо: https://kiberwitch.github.io/Train-tickets-landing/
 
